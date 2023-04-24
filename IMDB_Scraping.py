@@ -31,6 +31,6 @@ try:
         sheet.append([rank,name,year,rating])
 except Exception as e:
     print(e)
-path='C:/Users/HITESH KRISHNA/Desktop/Projects/Web_Scraping/IMDb Scraping/IMDB.xlsx'
+path='' #Give Path where your project is located, so that the excel file will also get saved there.
 excel.save(path)
 
