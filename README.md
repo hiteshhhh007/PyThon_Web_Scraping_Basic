@@ -5,4 +5,17 @@ and gives us the top movies of all time. The data from IMDb is scraped and produ
 
 
 
+
+
+
+
+
 Below is a sample video which shows us how the data is coming on to excel sheet directly from the IMDb website.
+
+
+![Idmb gif](https://user-images.githubusercontent.com/115102401/234079585-f1375c38-67af-417a-bc84-83b7e7b25280.gif)
+
+
+
+
+As it is visible in the video, once i run the code, an excel file with the name IMDb gets created in the project folder. Opening it you will be able to see the rank, Movie Name, Releas Year and all time IMDb rating.
